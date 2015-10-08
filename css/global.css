@@ -1,29 +1,40 @@
-th, td      {
-               vertical-align: top;
-               text-align: right;
-               font-size:large;
-               // border: 1px solid black;
-            }     /* Don't center table cells  */
-#converted  { color: red; font-weight: bold; font-size:large;          }     /* Calculated values in bold */
-input       {
-              text-align: right;       /* Align input to the right  */
-              border: none;
-              border-radius: 20px 20px 20px 20px;
-              padding: 5px  5px;
-              font-size:large;       }
-body
-{
- background-color:#b0c4de;  /* blue */
- font-size:large;
- font-family: "Lucida Sans Typewriter", "Lucida Console", Monaco, "Bitstream Vera Sans Mono", monospace;
+body {
+  background-image: url(http://wallpawn.com/wp-content/uploads/2015/09/blue_29_cool_background.jpg);
+   padding: 0;
+  margin: 0;
+  repeat: no-repeat;
+  background-size: cover;
+  background-attachment:fixed;
 }
 
-h1 {
-    font-weight: normal;
-    font-family: "Brush Script MT", cursive;
-    background: #3C5681;
-    padding: 5px 15px;
-    color: white;
-    display:inline-block;
-    border-radius: 10px 10px 10px 10px;
+#web {
+  width: 70%;
+  height: auto;
+  background-color: #0099FF;
+  margin: auto;
+  border-radius: 10px;
+  box-shadow: 10px -10px 20px #000;
+  
 }
+#titulo
+{
+  
+  width: 50%;
+  height: 100px;
+  background-color: #0066CC;
+  margin: auto;
+  text-align: center;
+
+}
+#original{
+  
+  margin: ;
+}
+#recuadro {
+ position: relative;
+ translatex (10%);
+
+}
+
+
+
